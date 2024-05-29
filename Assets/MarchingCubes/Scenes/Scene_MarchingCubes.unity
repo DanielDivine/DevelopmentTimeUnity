@@ -241,7 +241,7 @@ MonoBehaviour:
   m_Width: 25
   m_Height: 10
   m_HeightThreshold: 0.5
-  m_NoiseResolution: 0.107
+  m_NoiseResolution: 0.079
   m_VisualizeNoise: 0
 --- !u!23 &1649100599
 MeshRenderer:
